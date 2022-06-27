@@ -10,9 +10,10 @@
      It is a convenient shortcut annotation that bundles the features of @ToString, @EqualsAndHashCode, @Getter / @Setter and @RequiredArgsConstructor together.
      
  ### Login
- 
+ http://localhost:4200/login
      
  ### Register 
+ http://localhost:4200/register
  
  ### Timer
   

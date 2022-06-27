@@ -9,19 +9,19 @@
 ### **@Data**
      It is a convenient shortcut annotation that bundles the features of @ToString, @EqualsAndHashCode, @Getter / @Setter and @RequiredArgsConstructor together.
      
- ### Login
+ ### *Login*
  http://localhost:4200/login
      
- ### Register 
+ ### *Register* 
  http://localhost:4200/register
  
- ### Timer
+ ### *Timer*
   
- ### Sets
+ ### *Sets*
  
- ### Flashcards
+ ### *Flashcards*
  
- ### Notes
+ ### *Notes*
  
  Notes: 
      
